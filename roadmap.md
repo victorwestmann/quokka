@@ -8,7 +8,7 @@ Core
 * <del>Redirect content type (as link)</del>
 * Create a "NOTE" content type with minimum requirements
 * Multiple language reference for contents using language slug prefix
-* Create ARQUIVE template filter, displays a wordpress like arquive menu separating itens by year/month
+* Create ARCHIVE template filter, displays a wordpress like arquive menu separating itens by year/month
 * Create AUTHORS template filter to be used in bundles to show author names and links
 * GROUP Settings in ADMIN for better visualization
 * Finish cache implementation (redis as option)
